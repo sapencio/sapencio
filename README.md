@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on anything that is related to java
 - 📫 Contact info linkedin.com/in/tibebe-solomon-40a68a126
--                 tibesolf@gmail.com
+-  Email Address: tibesolf@gmail.com
 
 <!---
 sapencio/sapencio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
