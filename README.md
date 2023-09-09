@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently working on developing my skills.<br>I'm looking to collaborate on anything that is related to JAVA.<br>I'm looking for help with open source collaboration.<br>I'm currently student at ALX Software Development School.
-
+I'm currently working on developing my skills.<br>I'm looking to collaborate on anything that is related to JAVA.<br>I'm looking for help with open-source collaboration.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tibebe-solomon) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@tibebesolo) 
